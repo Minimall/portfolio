@@ -343,7 +343,7 @@ a.more {
     max-width: 289px;
     display: block;
     margin: 0 auto;
-    border-radius: 50%; }
+    border-radius: 0%; }
     @media screen and (max-width: 959px) {
       .section.about .photo {
         max-width: 100%; } }
