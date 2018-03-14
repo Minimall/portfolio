@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 5487 4800" width="5487pt" height="400pc" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.3 
+    <dc:date>2018-03-14 04:26:11 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="SF Pro Display" font-size="32" panose-1="0 0 8 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-136.71875" underline-thickness="92.77344" slope="0" x-height="523.4375" cap-height="704.58984" ascent="952.1484" descent="-241.21094" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="SFProDisplay-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="SF Pro Display" font-size="32" panose-1="0 0 5 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-151.36719" underline-thickness="58.59375" slope="0" x-height="507.8125" cap-height="704.58984" ascent="952.1484" descent="-241.21094" font-weight="500">
+      <font-face-src>
+        <font-face-name name="SFProDisplay-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -7 18 14" markerWidth="18" markerHeight="14" color="#3d82f8">
+      <g>
+        <path d="M 16 0 L 0 -6 L 0 6 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" viewBox="-1 -7 18 14" markerWidth="18" markerHeight="14" color="#3d82f8">
+      <g>
+        <path d="M 16 0 L 0 -6 L 0 6 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="SF Pro Display" font-size="36" panose-1="0 0 5 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-151.36719" underline-thickness="58.59375" slope="0" x-height="507.8125" cap-height="704.58984" ascent="952.1484" descent="-241.21094" font-weight="500">
+      <font-face-src>
+        <font-face-name name="SFProDisplay-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Lucida Grande" font-size="36" panose-1="2 11 6 0 4 5 2 2 2 4" units-per-em="1000" underline-position="-97.65625" underline-thickness="48.828125" slope="0" x-height="530.27344" cap-height="722.65625" ascent="966.7969" descent="-210.9375" font-weight="500">
+      <font-face-src>
+        <font-face-name name="LucidaGrande"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" viewBox="-1 -7 18 14" markerWidth="18" markerHeight="14" color="#f88338">
+      <g>
+        <path d="M 16 0 L 0 -6 L 0 6 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="NonNavigable_Marker" viewBox="-1 -9 30 18" markerWidth="30" markerHeight="18" color="#3d82f8">
+      <g>
+        <path d="M 28 0 L 0 0 M 16 8 L 0 -8 M 0 8 L 16 -8" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="SF Pro Display" font-size="24" panose-1="0 0 5 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-151.36719" underline-thickness="58.59375" slope="0" x-height="507.8125" cap-height="704.58984" ascent="952.1484" descent="-241.21094" font-weight="500">
+      <font-face-src>
+        <font-face-name name="SFProDisplay-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" width="5487" height="4800"/>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 3323.5 3658.8887 L 3559 3658.8887 C 3563.4183 3658.8887 3567 3662.4705 3567 3666.8887 L 3567 3800.8887 C 3567 3805.307 3563.4183 3808.8887 3559 3808.8887 L 3323.5 3808.8887 C 3319.0817 3808.8887 3315.5 3805.307 3315.5 3800.8887 L 3315.5 3666.8887 C 3315.5 3662.4705 3319.0817 3658.8887 3323.5 3658.8887 Z" fill="#f4f4f4"/>
+      <path d="M 3323.5 3658.8887 L 3559 3658.8887 C 3563.4183 3658.8887 3567 3662.4705 3567 3666.8887 L 3567 3800.8887 C 3567 3805.307 3563.4183 3808.8887 3559 3808.8887 L 3323.5 3808.8887 C 3319.0817 3808.8887 3315.5 3805.307 3315.5 3800.8887 L 3315.5 3666.8887 C 3315.5 3662.4705 3319.0817 3658.8887 3323.5 3658.8887 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3320.5 3695.8887)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="56.40625" y="30" textLength="19.765625">P</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="75.078125" y="30" textLength="17.515625">a</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="92.51562" y="30" textLength="92.57812">yment</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="59.078125" y="68" textLength="123.34375">Finished</tspan>
+      </text>
+      <text transform="translate(210 1556.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="26.992188" y="30" textLength="132.01562">Open app</tspan>
+      </text>
+      <path d="M 506 1503 L 741.5 1503 C 745.9183 1503 749.5 1506.5817 749.5 1511 L 749.5 1642.75 C 749.5 1647.1683 745.9183 1650.75 741.5 1650.75 L 506 1650.75 C 501.5817 1650.75 498 1647.1683 498 1642.75 L 498 1511 C 498 1506.5817 501.5817 1503 506 1503 Z" fill="#f4f4f4"/>
+      <path d="M 506 1503 L 741.5 1503 C 745.9183 1503 749.5 1506.5817 749.5 1511 L 749.5 1642.75 C 749.5 1647.1683 745.9183 1650.75 741.5 1650.75 L 506 1650.75 C 501.5817 1650.75 498 1647.1683 498 1642.75 L 498 1511 C 498 1506.5817 501.5817 1503 506 1503 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(503 1557.875)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="26.992188" y="30" textLength="138.65625">Splash scr</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="164.86719" y="30" textLength="49.640625">een</tspan>
+      </text>
+      <line x1="401" y1="1575.75" x2="479.3512" y2="1576.6587" marker-end="url(#FilledArrow_Marker)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 852.5 1503 L 1088 1503 C 1092.4183 1503 1096 1506.5817 1096 1511 L 1096 1642.75 C 1096 1647.1683 1092.4183 1650.75 1088 1650.75 L 852.5 1650.75 C 848.0817 1650.75 844.5 1647.1683 844.5 1642.75 L 844.5 1511 C 844.5 1506.5817 848.0817 1503 852.5 1503 Z" fill="#f4f4f4"/>
+      <path d="M 852.5 1503 L 1088 1503 C 1092.4183 1503 1096 1506.5817 1096 1511 L 1096 1642.75 C 1096 1647.1683 1092.4183 1650.75 1088 1650.75 L 852.5 1650.75 C 848.0817 1650.75 844.5 1647.1683 844.5 1642.75 L 844.5 1511 C 844.5 1506.5817 848.0817 1503 852.5 1503 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(849.5 1557.875)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="41.34375" y="30" textLength="100.90625">Onboar</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="141.46875" y="30" textLength="58.6875">ding</tspan>
+      </text>
+      <line x1="749.5" y1="1576.875" x2="826.6" y2="1576.875" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <text transform="translate(1061.5 1378.25)" fill="#3d82f8">
+        <tspan font-family="SF Pro Display" font-size="36" font-weight="500" fill="#3d82f8" x="0" y="35" textLength="98.96484">About </tspan>
+        <tspan font-family="Lucida Grande" font-size="36" font-weight="500" fill="#3d82f8" x="98.96484" y="35" textLength="35.560547">↪</tspan>
+      </text>
+      <path d="M 970.25 1503 L 970.25 1483.1 L 970.25 1400.25 L 1017.6 1400.25 L 1019.6 1400.25" marker-end="url(#FilledArrow_Marker_3)" stroke="#f88338" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1206 1500.75 L 1441.5 1500.75 C 1445.9183 1500.75 1449.5 1504.3317 1449.5 1508.75 L 1449.5 1642.75 C 1449.5 1647.1683 1445.9183 1650.75 1441.5 1650.75 L 1206 1650.75 C 1201.5817 1650.75 1198 1647.1683 1198 1642.75 L 1198 1508.75 C 1198 1504.3317 1201.5817 1500.75 1206 1500.75 Z" fill="#f4f4f4"/>
+      <path d="M 1206 1500.75 L 1441.5 1500.75 C 1445.9183 1500.75 1449.5 1504.3317 1449.5 1508.75 L 1449.5 1642.75 C 1449.5 1647.1683 1445.9183 1650.75 1441.5 1650.75 L 1206 1650.75 C 1201.5817 1650.75 1198 1647.1683 1198 1642.75 L 1198 1508.75 C 1198 1504.3317 1201.5817 1500.75 1206 1500.75 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(1203 1556.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="22.15625" y="30" textLength="22.078125">A</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="43.6875" y="30" textLength="175.65625">uthorization</tspan>
+      </text>
+      <path d="M 1096 1576.875 L 1115.9 1576.875 L 1147 1576.875 L 1147 1576.3125 L 1147 1575.75 L 1178.1 1575.75 L 1180.1 1575.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1533.9902 1575.75 L 1533.9902 1440.8115 L 1533.9902 1329.75 L 1587.1 1329.75 L 1589.1 1329.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1449.5 1575.75 L 1469.4 1575.75 L 1533.9032 1575.75 L 1533.9032 1687.4074 L 1533.9032 1821.75 L 1587.1 1821.75 L 1589.1 1821.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1615 1254.75 L 1850.5 1254.75 C 1854.9183 1254.75 1858.5 1258.3317 1858.5 1262.75 L 1858.5 1396.75 C 1858.5 1401.1683 1854.9183 1404.75 1850.5 1404.75 L 1615 1404.75 C 1610.5817 1404.75 1607 1401.1683 1607 1396.75 L 1607 1262.75 C 1607 1258.3317 1610.5817 1254.75 1615 1254.75 Z" fill="#f4f4f4"/>
+      <path d="M 1615 1254.75 L 1850.5 1254.75 C 1854.9183 1254.75 1858.5 1258.3317 1858.5 1262.75 L 1858.5 1396.75 C 1858.5 1401.1683 1854.9183 1404.75 1850.5 1404.75 L 1615 1404.75 C 1610.5817 1404.75 1607 1401.1683 1607 1396.75 L 1607 1262.75 C 1607 1258.3317 1610.5817 1254.75 1615 1254.75 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(1612 1310.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="20.101562" y="30" textLength="175.51562">E-mail — Ent</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="195.14844" y="30" textLength="26.25">er</tspan>
+      </text>
+      <path d="M 1615 1746.75 L 1850.5 1746.75 C 1854.9183 1746.75 1858.5 1750.3317 1858.5 1754.75 L 1858.5 1888.75 C 1858.5 1893.1683 1854.9183 1896.75 1850.5 1896.75 L 1615 1896.75 C 1610.5817 1896.75 1607 1893.1683 1607 1888.75 L 1607 1754.75 C 1607 1750.3317 1610.5817 1746.75 1615 1746.75 Z" fill="#f4f4f4"/>
+      <path d="M 1615 1746.75 L 1850.5 1746.75 C 1854.9183 1746.75 1858.5 1750.3317 1858.5 1754.75 L 1858.5 1888.75 C 1858.5 1893.1683 1854.9183 1896.75 1850.5 1896.75 L 1615 1896.75 C 1610.5817 1896.75 1607 1893.1683 1607 1888.75 L 1607 1754.75 C 1607 1750.3317 1610.5817 1746.75 1615 1746.75 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(1612 1802.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="20.226562" y="30" textLength="175.26562">Phone — Ent</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="195.02344" y="30" textLength="26.25">er</tspan>
+      </text>
+      <path d="M 1962 1643.75 L 2197.5 1643.75 C 2201.9183 1643.75 2205.5 1647.3317 2205.5 1651.75 L 2205.5 1785.75 C 2205.5 1790.1683 2201.9183 1793.75 2197.5 1793.75 L 1962 1793.75 C 1957.5817 1793.75 1954 1790.1683 1954 1785.75 L 1954 1651.75 C 1954 1647.3317 1957.5817 1643.75 1962 1643.75 Z" fill="#f4f4f4"/>
+      <path d="M 1962 1643.75 L 2197.5 1643.75 C 2201.9183 1643.75 2205.5 1647.3317 2205.5 1651.75 L 2205.5 1785.75 C 2205.5 1790.1683 2201.9183 1793.75 2197.5 1793.75 L 1962 1793.75 C 1957.5817 1793.75 1954 1790.1683 1954 1785.75 L 1954 1651.75 C 1954 1647.3317 1957.5817 1643.75 1962 1643.75 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(1959 1661.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="58.484375" y="30" textLength="131.09375">Phone — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="33.90625" y="68" textLength="180.25">Confirmation </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="84.22656" y="106" textLength="73.046875">Code</tspan>
+      </text>
+      <path d="M 1906.25 1821.75 L 1906.25 1770.25 L 1906.25 1718.75 L 1934.1 1718.75 L 1936.1 1718.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 2307 1643.75 L 2542.5 1643.75 C 2546.9183 1643.75 2550.5 1647.3317 2550.5 1651.75 L 2550.5 1785.75 C 2550.5 1790.1683 2546.9183 1793.75 2542.5 1793.75 L 2307 1793.75 C 2302.5817 1793.75 2299 1790.1683 2299 1785.75 L 2299 1651.75 C 2299 1647.3317 2302.5817 1643.75 2307 1643.75 Z" fill="#f4f4f4"/>
+      <path d="M 2307 1643.75 L 2542.5 1643.75 C 2546.9183 1643.75 2550.5 1647.3317 2550.5 1651.75 L 2550.5 1785.75 C 2550.5 1790.1683 2546.9183 1793.75 2542.5 1793.75 L 2307 1793.75 C 2302.5817 1793.75 2299 1790.1683 2299 1785.75 L 2299 1651.75 C 2299 1647.3317 2302.5817 1643.75 2307 1643.75 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(2304 1680.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="58.484375" y="30" textLength="131.09375">Phone — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="48.921875" y="68" textLength="31.8125">Cr</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="79.953125" y="68" textLength="42.09375">eat</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="121.57812" y="68" textLength="71">e PIN</tspan>
+      </text>
+      <line x1="2205.5" y1="1718.75" x2="2280.35" y2="1718.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 2653 1643.75 L 2888.5 1643.75 C 2892.9183 1643.75 2896.5 1647.3317 2896.5 1651.75 L 2896.5 1785.75 C 2896.5 1790.1683 2892.9183 1793.75 2888.5 1793.75 L 2653 1793.75 C 2648.5817 1793.75 2645 1790.1683 2645 1785.75 L 2645 1651.75 C 2645 1647.3317 2648.5817 1643.75 2653 1643.75 Z" fill="#f4f4f4"/>
+      <path d="M 2653 1643.75 L 2888.5 1643.75 C 2892.9183 1643.75 2896.5 1647.3317 2896.5 1651.75 L 2896.5 1785.75 C 2896.5 1790.1683 2892.9183 1793.75 2888.5 1793.75 L 2653 1793.75 C 2648.5817 1793.75 2645 1790.1683 2645 1785.75 L 2645 1651.75 C 2645 1647.3317 2648.5817 1643.75 2653 1643.75 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(2650 1680.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="58.484375" y="30" textLength="131.09375">Phone — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="45.828125" y="68" textLength="149.84375">Repeat PIN</tspan>
+      </text>
+      <line x1="2550.5" y1="1718.75" x2="2626.35" y2="1718.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1962 1151.75 L 2197.5 1151.75 C 2201.9183 1151.75 2205.5 1155.3317 2205.5 1159.75 L 2205.5 1293.75 C 2205.5 1298.1683 2201.9183 1301.75 2197.5 1301.75 L 1962 1301.75 C 1957.5817 1301.75 1954 1298.1683 1954 1293.75 L 1954 1159.75 C 1954 1155.3317 1957.5817 1151.75 1962 1151.75 Z" fill="#f4f4f4"/>
+      <path d="M 1962 1151.75 L 2197.5 1151.75 C 2201.9183 1151.75 2205.5 1155.3317 2205.5 1159.75 L 2205.5 1293.75 C 2205.5 1298.1683 2201.9183 1301.75 2197.5 1301.75 L 1962 1301.75 C 1957.5817 1301.75 1954 1298.1683 1954 1293.75 L 1954 1159.75 C 1954 1155.3317 1957.5817 1151.75 1962 1151.75 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(1959 1188.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="58.359375" y="30" textLength="131.34375">E-mail — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="8.1484375" y="68" textLength="31.8125">Cr</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="39.179688" y="68" textLength="42.09375">eat</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="80.80469" y="68" textLength="41.4375">e P</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="120.83594" y="68" textLength="95.57812">asswor</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="215.6328" y="68" textLength="17.71875">d</tspan>
+      </text>
+      <path d="M 2309.5 1151.75 L 2545 1151.75 C 2549.4183 1151.75 2553 1155.3317 2553 1159.75 L 2553 1293.75 C 2553 1298.1683 2549.4183 1301.75 2545 1301.75 L 2309.5 1301.75 C 2305.0817 1301.75 2301.5 1298.1683 2301.5 1293.75 L 2301.5 1159.75 C 2301.5 1155.3317 2305.0817 1151.75 2309.5 1151.75 Z" fill="#f4f4f4"/>
+      <path d="M 2309.5 1151.75 L 2545 1151.75 C 2549.4183 1151.75 2553 1155.3317 2553 1159.75 L 2553 1293.75 C 2553 1298.1683 2549.4183 1301.75 2545 1301.75 L 2309.5 1301.75 C 2305.0817 1301.75 2301.5 1298.1683 2301.5 1293.75 L 2301.5 1159.75 C 2301.5 1155.3317 2305.0817 1151.75 2309.5 1151.75 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(2306.5 1188.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="58.359375" y="30" textLength="131.34375">E-mail — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="5.0546875" y="68" textLength="120.28125">Repeat P</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="123.92969" y="68" textLength="95.57812">asswor</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="218.72656" y="68" textLength="17.71875">d</tspan>
+      </text>
+      <line x1="2206.25" y1="1226.75" x2="2282.85" y2="1226.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1962 1850 L 2197.5 1850 C 2201.9183 1850 2205.5 1853.5817 2205.5 1858 L 2205.5 1992 C 2205.5 1996.4183 2201.9183 2e3 2197.5 2e3 L 1962 2e3 C 1957.5817 2e3 1954 1996.4183 1954 1992 L 1954 1858 C 1954 1853.5817 1957.5817 1850 1962 1850 Z" fill="#f4f4f4"/>
+      <path d="M 1962 1850 L 2197.5 1850 C 2201.9183 1850 2205.5 1853.5817 2205.5 1858 L 2205.5 1992 C 2205.5 1996.4183 2201.9183 2e3 2197.5 2e3 L 1962 2e3 C 1957.5817 2e3 1954 1996.4183 1954 1992 L 1954 1858 C 1954 1853.5817 1957.5817 1850 1962 1850 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(1959 1887)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="58.484375" y="30" textLength="131.09375">Phone — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="58.46875" y="68" textLength="44.171875">Ent</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="102.17188" y="68" textLength="80.859375">er PIN</tspan>
+      </text>
+      <path d="M 1858.5 1821.75 L 1878.4 1821.75 L 1906.25 1821.75 L 1906.25 1873.375 L 1906.25 1925 L 1934.1 1925 L 1936.1 1925" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1962 1358 L 2197.5 1358 C 2201.9183 1358 2205.5 1361.5817 2205.5 1366 L 2205.5 1500 C 2205.5 1504.4183 2201.9183 1508 2197.5 1508 L 1962 1508 C 1957.5817 1508 1954 1504.4183 1954 1500 L 1954 1366 C 1954 1361.5817 1957.5817 1358 1962 1358 Z" fill="#f4f4f4"/>
+      <path d="M 1962 1358 L 2197.5 1358 C 2201.9183 1358 2205.5 1361.5817 2205.5 1366 L 2205.5 1500 C 2205.5 1504.4183 2201.9183 1508 2197.5 1508 L 1962 1508 C 1957.5817 1508 1954 1504.4183 1954 1500 L 1954 1366 C 1954 1361.5817 1957.5817 1358 1962 1358 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(1959 1395)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="58.359375" y="30" textLength="131.34375">E-mail — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="55.953125" y="68" textLength="18.484375">P</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="73.03125" y="68" textLength="95.57812">asswor</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="167.82812" y="68" textLength="17.71875">d</tspan>
+      </text>
+      <path d="M 1906.25 1329.75 L 1906.25 1278.25 L 1906.25 1226.75 L 1934.1 1226.75 L 1936.1 1226.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1858.5 1329.75 L 1878.4 1329.75 L 1906.25 1329.75 L 1906.25 1381.375 L 1906.25 1433 L 1934.1 1433 L 1936.1 1433" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 2896.5 1718.75 L 2916.4 1718.75 L 3021.9687 1718.4863 L 3107.1 1718.75 L 3109.1 1718.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 2205.5 1925 L 2225.4 1925 L 3022.811 1925 L 3022.811 1765.2317 L 3022.811 1718.75 L 3107.1 1718.75 L 3109.1 1718.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 2553 1226.75 L 2572.9 1226.75 L 3023.123 1226.75 L 3023.123 1718.5977 L 3107.1 1718.75 L 3109.1 1718.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3135 1643.75 L 3370.5 1643.75 C 3374.9183 1643.75 3378.5 1647.3317 3378.5 1651.75 L 3378.5 1785.75 C 3378.5 1790.1683 3374.9183 1793.75 3370.5 1793.75 L 3135 1793.75 C 3130.5817 1793.75 3127 1790.1683 3127 1785.75 L 3127 1651.75 C 3127 1647.3317 3130.5817 1643.75 3135 1643.75 Z" fill="#f4f4f4"/>
+      <path d="M 3135 1643.75 L 3370.5 1643.75 C 3374.9183 1643.75 3378.5 1647.3317 3378.5 1651.75 L 3378.5 1785.75 C 3378.5 1790.1683 3374.9183 1793.75 3370.5 1793.75 L 3135 1793.75 C 3130.5817 1793.75 3127 1790.1683 3127 1785.75 L 3127 1651.75 C 3127 1647.3317 3130.5817 1643.75 3135 1643.75 Z" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <text transform="translate(3132 1699.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="63.734375" y="30" textLength="22.796875">C</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="86.45312" y="30" textLength="28.890625">at</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="115.1875" y="30" textLength="62.578125">alog</tspan>
+      </text>
+      <path d="M 2205.5 1433 L 2225.4 1433 L 3022.791 1433 L 3022.791 1689.3691 L 3022.791 1718.75 L 3107.1 1718.75 L 3109.1 1718.75" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <text transform="translate(2323 1526.75)" fill="#3d82f8">
+        <tspan font-family="SF Pro Display" font-size="36" font-weight="500" fill="#3d82f8" x="0" y="35" textLength="67.60547">Rest</tspan>
+        <tspan font-family="SF Pro Display" font-size="36" font-weight="500" fill="#3d82f8" x="67.078125" y="35" textLength="30.19922">or</tspan>
+        <tspan font-family="SF Pro Display" font-size="36" font-weight="500" fill="#3d82f8" x="96.39844" y="35" textLength="153.12305">e passwor</tspan>
+        <tspan font-family="SF Pro Display" font-size="36" font-weight="500" fill="#3d82f8" x="248.64258" y="35" textLength="27.316406">d </tspan>
+        <tspan font-family="Lucida Grande" font-size="36" font-weight="500" fill="#3d82f8" x="275.959" y="35" textLength="35.560547">↪</tspan>
+      </text>
+      <path d="M 2079.75 1508 L 2079.75 1527.9 L 2079.75 1548.75 L 2299 1548.75 L 2279.1 1548.75 L 2281.1 1548.75" marker-end="url(#FilledArrow_Marker_3)" stroke="#f88338" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <text transform="translate(2323 2017.75)" fill="#3d82f8">
+        <tspan font-family="SF Pro Display" font-size="36" font-weight="500" fill="#3d82f8" x="0" y="35" textLength="67.60547">Rest</tspan>
+        <tspan font-family="SF Pro Display" font-size="36" font-weight="500" fill="#3d82f8" x="67.078125" y="35" textLength="30.19922">or</tspan>
+        <tspan font-family="SF Pro Display" font-size="36" font-weight="500" fill="#3d82f8" x="96.39844" y="35" textLength="87.25781">e PIN </tspan>
+        <tspan font-family="Lucida Grande" font-size="36" font-weight="500" fill="#3d82f8" x="183.65625" y="35" textLength="35.560547">↪</tspan>
+      </text>
+      <path d="M 2079.75 2e3 L 2079.75 2019.9 L 2079.75 2039.75 L 2299 2039.75 L 2279.1 2039.75 L 2281.1 2039.75" marker-end="url(#FilledArrow_Marker_3)" stroke="#f88338" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3666.5 2000.6563 L 3902 2000.6563 C 3906.4183 2000.6563 3910 2004.238 3910 2008.6563 L 3910 2142.6563 C 3910 2147.0745 3906.4183 2150.6563 3902 2150.6563 L 3666.5 2150.6563 C 3662.0817 2150.6563 3658.5 2147.0745 3658.5 2142.6563 L 3658.5 2008.6563 C 3658.5 2004.238 3662.0817 2000.6563 3666.5 2000.6563 Z" fill="#f4f4f4"/>
+      <path d="M 3666.5 2000.6563 L 3902 2000.6563 C 3906.4183 2000.6563 3910 2004.238 3910 2008.6563 L 3910 2142.6563 C 3910 2147.0745 3906.4183 2150.6563 3902 2150.6563 L 3666.5 2150.6563 C 3662.0817 2150.6563 3658.5 2147.0745 3658.5 2142.6563 L 3658.5 2008.6563 C 3658.5 2004.238 3662.0817 2000.6563 3666.5 2000.6563 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3663.5 2056.6563)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="70.72656" y="30" textLength="71.6875">Bask</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="141.63281" y="30" textLength="29.140625">et</tspan>
+      </text>
+      <path d="M 3252.75 1793.75 L 3252.75 1813.65 L 3252.75 2076.0781 L 3658.5 2076.0781 L 3638.6 2075.6563 L 3640.6 2075.6563" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3666.5 1539.4063 L 3902 1539.4063 C 3906.4183 1539.4063 3910 1542.988 3910 1547.4063 L 3910 1681.4063 C 3910 1685.8245 3906.4183 1689.4063 3902 1689.4063 L 3666.5 1689.4063 C 3662.0817 1689.4063 3658.5 1685.8245 3658.5 1681.4063 L 3658.5 1547.4063 C 3658.5 1542.988 3662.0817 1539.4063 3666.5 1539.4063 Z" fill="#f4f4f4"/>
+      <path d="M 3666.5 1539.4063 L 3902 1539.4063 C 3906.4183 1539.4063 3910 1542.988 3910 1547.4063 L 3910 1681.4063 C 3910 1685.8245 3906.4183 1689.4063 3902 1689.4063 L 3666.5 1689.4063 C 3662.0817 1689.4063 3658.5 1685.8245 3658.5 1681.4063 L 3658.5 1547.4063 C 3658.5 1542.988 3662.0817 1539.4063 3666.5 1539.4063 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" stroke-dasharray="4,4"/>
+      <text transform="translate(3663.5 1576.4063)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="49.21875" y="30" textLength="47.65625">Cat</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="96.5625" y="30" textLength="102.28125">alog — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="77.67969" y="68" textLength="86.14062">Empty</tspan>
+      </text>
+      <path d="M 3570.5625 1718.75 L 3570.5625 1723.1719 L 3570.5625 1854.6563 L 3638.6 1854.6563 L 3640.6 1854.6563" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3378.5 1718.75 L 3398.4 1718.75 L 3570.539 1718.75 L 3570.539 1717.8828 L 3570.539 1614.4063 L 3638.6 1614.4063 L 3640.6 1614.4063" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4068.25 1779.6562 L 4303.75 1779.6562 C 4308.1683 1779.6562 4311.75 1783.238 4311.75 1787.6562 L 4311.75 1921.6562 C 4311.75 1926.0745 4308.1683 1929.6562 4303.75 1929.6562 L 4068.25 1929.6562 C 4063.8317 1929.6562 4060.25 1926.0745 4060.25 1921.6562 L 4060.25 1787.6562 C 4060.25 1783.238 4063.8317 1779.6562 4068.25 1779.6562 Z" fill="#f4f4f4"/>
+      <path d="M 4068.25 1779.6562 L 4303.75 1779.6562 C 4308.1683 1779.6562 4311.75 1783.238 4311.75 1787.6562 L 4311.75 1921.6562 C 4311.75 1926.0745 4308.1683 1929.6562 4303.75 1929.6562 L 4068.25 1929.6562 C 4063.8317 1929.6562 4060.25 1926.0745 4060.25 1921.6562 L 4060.25 1787.6562 C 4060.25 1783.238 4063.8317 1779.6562 4068.25 1779.6562 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4065.25 1835.6562)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="68.35156" y="30" textLength="28.34375">Pr</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="95.91406" y="30" textLength="77.234375">oduct</tspan>
+      </text>
+      <path d="M 4068.25 1539.4063 L 4303.75 1539.4063 C 4308.1683 1539.4063 4311.75 1542.988 4311.75 1547.4063 L 4311.75 1681.4063 C 4311.75 1685.8245 4308.1683 1689.4063 4303.75 1689.4063 L 4068.25 1689.4063 C 4063.8317 1689.4063 4060.25 1685.8245 4060.25 1681.4063 L 4060.25 1547.4063 C 4060.25 1542.988 4063.8317 1539.4063 4068.25 1539.4063 Z" fill="#f4f4f4"/>
+      <path d="M 4068.25 1539.4063 L 4303.75 1539.4063 C 4308.1683 1539.4063 4311.75 1542.988 4311.75 1547.4063 L 4311.75 1681.4063 C 4311.75 1685.8245 4308.1683 1689.4063 4303.75 1689.4063 L 4068.25 1689.4063 C 4063.8317 1689.4063 4060.25 1685.8245 4060.25 1681.4063 L 4060.25 1547.4063 C 4060.25 1542.988 4063.8317 1539.4063 4068.25 1539.4063 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" stroke-dasharray="4,4"/>
+      <text transform="translate(4065.25 1595.4063)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="72.21094" y="30" textLength="18.59375">T</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="87.28906" y="30" textLength="26.5">ut</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="113.32031" y="30" textLength="55.96875">orial</tspan>
+      </text>
+      <line x1="3910.75" y1="1614.4063" x2="4042.35" y2="1614.4063" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4186 1929.6562 L 4186 1949.5562 L 4186 2075.6563 L 3929.9 2075.6563 L 3927.9 2075.6563" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3666.5 1779.6563 L 3902 1779.6563 C 3906.4183 1779.6563 3910 1783.238 3910 1787.6563 L 3910 1921.6563 C 3910 1926.0745 3906.4183 1929.6563 3902 1929.6563 L 3666.5 1929.6563 C 3662.0817 1929.6563 3658.5 1926.0745 3658.5 1921.6563 L 3658.5 1787.6563 C 3658.5 1783.238 3662.0817 1779.6563 3666.5 1779.6563 Z" fill="#f4f4f4"/>
+      <path d="M 3666.5 1779.6563 L 3902 1779.6563 C 3906.4183 1779.6563 3910 1783.238 3910 1787.6563 L 3910 1921.6563 C 3910 1926.0745 3906.4183 1929.6563 3902 1929.6563 L 3666.5 1929.6563 C 3662.0817 1929.6563 3658.5 1926.0745 3658.5 1921.6563 L 3658.5 1787.6563 C 3658.5 1783.238 3662.0817 1779.6563 3666.5 1779.6563 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3663.5 1816.6563)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="49.21875" y="30" textLength="47.65625">Cat</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="96.5625" y="30" textLength="102.28125">alog — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="54.078125" y="68" textLength="133.34375">Goods list</tspan>
+      </text>
+      <path d="M 3135 2393 L 3370.5 2393 C 3374.9183 2393 3378.5 2396.5817 3378.5 2401 L 3378.5 2535 C 3378.5 2539.4183 3374.9183 2543 3370.5 2543 L 3135 2543 C 3130.5817 2543 3127 2539.4183 3127 2535 L 3127 2401 C 3127 2396.5817 3130.5817 2393 3135 2393 Z" fill="#f4f4f4"/>
+      <path d="M 3135 2393 L 3370.5 2393 C 3374.9183 2393 3378.5 2396.5817 3378.5 2401 L 3378.5 2535 C 3378.5 2539.4183 3374.9183 2543 3370.5 2543 L 3135 2543 C 3130.5817 2543 3127 2539.4183 3127 2535 L 3127 2401 C 3127 2396.5817 3130.5817 2393 3135 2393 Z" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <text transform="translate(3132 2449)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="56.40625" y="30" textLength="19.765625">P</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="75.078125" y="30" textLength="17.515625">a</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="92.51562" y="30" textLength="92.57812">yment</tspan>
+      </text>
+      <path d="M 3784.25 2150.6563 L 3784.25 2170.5563 L 3784.25 2470 L 3378.5 2470 L 3378.5 2469 L 3398.4 2469 L 3398.4 2468 L 3396.4 2468" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4311.75 1614.4063 L 4331.65 1614.4063 L 4365.1797 1614.4063 L 4365.1797 1488 L 3784.25 1488 L 3784.25 1519.5063 L 3784.25 1521.5063" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3323.5 3043.574 L 3559 3043.574 C 3563.4183 3043.574 3567 3047.1558 3567 3051.574 L 3567 3185.574 C 3567 3189.9924 3563.4183 3193.574 3559 3193.574 L 3323.5 3193.574 C 3319.0817 3193.574 3315.5 3189.9924 3315.5 3185.574 L 3315.5 3051.574 C 3315.5 3047.1558 3319.0817 3043.574 3323.5 3043.574 Z" fill="#f4f4f4"/>
+      <path d="M 3323.5 3043.574 L 3559 3043.574 C 3563.4183 3043.574 3567 3047.1558 3567 3051.574 L 3567 3185.574 C 3567 3189.9924 3563.4183 3193.574 3559 3193.574 L 3323.5 3193.574 C 3319.0817 3193.574 3315.5 3189.9924 3315.5 3185.574 L 3315.5 3051.574 C 3315.5 3047.1558 3319.0817 3043.574 3323.5 3043.574 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3320.5 3080.574)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="16.109375" y="30" textLength="18.484375">P</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="33.1875" y="30" textLength="164.95312">ayment (Car</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="197.35938" y="30" textLength="34.59375">d) </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="69.828125" y="68" textLength="57.15625">— T</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="122.76562" y="68" textLength="26.625">ot</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="149.07812" y="68" textLength="22.59375">al</tspan>
+      </text>
+      <line x1="3441.25" y1="2853.2575" x2="3441.25" y2="3025.674" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 2960 3043.574 L 3195.5 3043.574 C 3199.9183 3043.574 3203.5 3047.1558 3203.5 3051.574 L 3203.5 3185.574 C 3203.5 3189.9924 3199.9183 3193.574 3195.5 3193.574 L 2960 3193.574 C 2955.5817 3193.574 2952 3189.9924 2952 3185.574 L 2952 3051.574 C 2952 3047.1558 2955.5817 3043.574 2960 3043.574 Z" fill="#f4f4f4"/>
+      <path d="M 2960 3043.574 L 3195.5 3043.574 C 3199.9183 3043.574 3203.5 3047.1558 3203.5 3051.574 L 3203.5 3185.574 C 3203.5 3189.9924 3199.9183 3193.574 3195.5 3193.574 L 2960 3193.574 C 2955.5817 3193.574 2952 3189.9924 2952 3185.574 L 2952 3051.574 C 2952 3047.1558 2955.5817 3043.574 2960 3043.574 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(2957 3080.574)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="13.4375" y="30" textLength="18.484375">P</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="30.515625" y="30" textLength="204.10938">ayment (Cash) </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="69.828125" y="68" textLength="57.15625">— T</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="122.76562" y="68" textLength="26.625">ot</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="149.07812" y="68" textLength="22.59375">al</tspan>
+      </text>
+      <path d="M 3252.75 2625.4453 L 3235.172 2625.4453 L 3077.75 2625.4453 L 3077.75 3023.674 L 3077.75 3025.674" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3323.5 2703.2575 L 3559 2703.2575 C 3563.4183 2703.2575 3567 2706.8393 3567 2711.2575 L 3567 2845.2575 C 3567 2849.6758 3563.4183 2853.2575 3559 2853.2575 L 3323.5 2853.2575 C 3319.0817 2853.2575 3315.5 2849.6758 3315.5 2845.2575 L 3315.5 2711.2575 C 3315.5 2706.8393 3319.0817 2703.2575 3323.5 2703.2575 Z" fill="#f4f4f4"/>
+      <path d="M 3323.5 2703.2575 L 3559 2703.2575 C 3563.4183 2703.2575 3567 2706.8393 3567 2711.2575 L 3567 2845.2575 C 3567 2849.6758 3563.4183 2853.2575 3559 2853.2575 L 3323.5 2853.2575 C 3319.0817 2853.2575 3315.5 2849.6758 3315.5 2845.2575 L 3315.5 2711.2575 C 3315.5 2706.8393 3319.0817 2703.2575 3323.5 2703.2575 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" stroke-dasharray="4,4"/>
+      <text transform="translate(3320.5 2740.2575)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="64.1875" y="30" textLength="113.125">PIN-pad</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="43.203125" y="68" textLength="155.09375">Connection</tspan>
+      </text>
+      <path d="M 3252.75 2543 L 3252.75 2562.9 L 3252.75 2625.7675 L 3373.0722 2625.7675 L 3441.25 2625.7675 L 3441.25 2683.3575 L 3441.25 2685.3575" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <line x1="3567" y1="2778.2575" x2="3639.85" y2="2778.2575" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3666.5 2703.2575 L 3902 2703.2575 C 3906.4183 2703.2575 3910 2706.8393 3910 2711.2575 L 3910 2845.2575 C 3910 2849.6758 3906.4183 2853.2575 3902 2853.2575 L 3666.5 2853.2575 C 3662.0817 2853.2575 3658.5 2849.6758 3658.5 2845.2575 L 3658.5 2711.2575 C 3658.5 2706.8393 3662.0817 2703.2575 3666.5 2703.2575 Z" fill="#f4f4f4"/>
+      <path d="M 3666.5 2703.2575 L 3902 2703.2575 C 3906.4183 2703.2575 3910 2706.8393 3910 2711.2575 L 3910 2845.2575 C 3910 2849.6758 3906.4183 2853.2575 3902 2853.2575 L 3666.5 2853.2575 C 3662.0817 2853.2575 3658.5 2849.6758 3658.5 2845.2575 L 3658.5 2711.2575 C 3658.5 2706.8393 3662.0817 2703.2575 3666.5 2703.2575 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3663.5 2721.2575)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="44.90625" y="30" textLength="158.25">PIN-pad — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="49.28906" y="68" textLength="29.5625">W</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="76.66406" y="68" textLength="89.48438">aiting f</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="165.36719" y="68" textLength="33.40625">or </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="46.16406" y="106" textLength="149.17188">connection</tspan>
+      </text>
+      <path d="M 4072.5 2703.5 L 4308 2703.5 C 4312.4183 2703.5 4316 2707.0817 4316 2711.5 L 4316 2845.5 C 4316 2849.9183 4312.4183 2853.5 4308 2853.5 L 4072.5 2853.5 C 4068.0817 2853.5 4064.5 2849.9183 4064.5 2845.5 L 4064.5 2711.5 C 4064.5 2707.0817 4068.0817 2703.5 4072.5 2703.5 Z" fill="#f4f4f4"/>
+      <path d="M 4072.5 2703.5 L 4308 2703.5 C 4312.4183 2703.5 4316 2707.0817 4316 2711.5 L 4316 2845.5 C 4316 2849.9183 4312.4183 2853.5 4308 2853.5 L 4072.5 2853.5 C 4068.0817 2853.5 4064.5 2849.9183 4064.5 2845.5 L 4064.5 2711.5 C 4064.5 2707.0817 4068.0817 2703.5 4072.5 2703.5 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4069.5 2721.5)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="44.90625" y="30" textLength="158.25">PIN-pad — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="8.1953125" y="68" textLength="199.04688">Connection Err</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="206.46094" y="68" textLength="33.40625">or </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="37.578125" y="106" textLength="166.34375">(first device)</tspan>
+      </text>
+      <path d="M 4072.5 2910 L 4308 2910 C 4312.4183 2910 4316 2913.5817 4316 2918 L 4316 3052 C 4316 3056.4183 4312.4183 3060 4308 3060 L 4072.5 3060 C 4068.0817 3060 4064.5 3056.4183 4064.5 3052 L 4064.5 2918 C 4064.5 2913.5817 4068.0817 2910 4072.5 2910 Z" fill="#f4f4f4"/>
+      <path d="M 4072.5 2910 L 4308 2910 C 4312.4183 2910 4316 2913.5817 4316 2918 L 4316 3052 C 4316 3056.4183 4312.4183 3060 4308 3060 L 4072.5 3060 C 4068.0817 3060 4064.5 3056.4183 4064.5 3052 L 4064.5 2918 C 4064.5 2913.5817 4068.0817 2910 4072.5 2910 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4069.5 2947)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="44.90625" y="30" textLength="158.25">PIN-pad — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="46.57031" y="68" textLength="114.71875">Connect</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="160.82031" y="68" textLength="34.109375">ed</tspan>
+      </text>
+      <path d="M 3986.491 2778.2575 L 3987.25 2778.3788 L 4044.6 2778.5 L 4046.6 2778.5" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3986.491 2778.2575 L 3986.491 2870.4 L 3986.491 2985 L 4044.6 2985 L 4046.6 2985" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4190.25 3060 L 4190.25 3079.9 L 4190.25 3118.574 L 3567 3118.574 L 3586.9 3118.574 L 3584.9 3118.574" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3323.5 3264.074 L 3559 3264.074 C 3563.4183 3264.074 3567 3267.656 3567 3272.074 L 3567 3406.074 C 3567 3410.4924 3563.4183 3414.074 3559 3414.074 L 3323.5 3414.074 C 3319.0817 3414.074 3315.5 3410.4924 3315.5 3406.074 L 3315.5 3272.074 C 3315.5 3267.656 3319.0817 3264.074 3323.5 3264.074 Z" fill="#f4f4f4"/>
+      <path d="M 3323.5 3264.074 L 3559 3264.074 C 3563.4183 3264.074 3567 3267.656 3567 3272.074 L 3567 3406.074 C 3567 3410.4924 3563.4183 3414.074 3559 3414.074 L 3323.5 3414.074 C 3319.0817 3414.074 3315.5 3410.4924 3315.5 3406.074 L 3315.5 3272.074 C 3315.5 3267.656 3319.0817 3264.074 3323.5 3264.074 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3320.5 3301.074)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="16.109375" y="30" textLength="18.484375">P</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="33.1875" y="30" textLength="164.95312">ayment (Car</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="197.35938" y="30" textLength="34.59375">d) </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="27.609375" y="68" textLength="66.90625">— Pr</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="93.73438" y="68" textLength="120.15625">ocessing</tspan>
+      </text>
+      <path d="M 3441.25 3193.574 L 3441.25 3213.474 L 3441.25 3228.824 L 3441.25 3244.174 L 3441.25 3246.174" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3666.5 3658.8887 L 3902 3658.8887 C 3906.4183 3658.8887 3910 3662.4705 3910 3666.8887 L 3910 3800.8887 C 3910 3805.307 3906.4183 3808.8887 3902 3808.8887 L 3666.5 3808.8887 C 3662.0817 3808.8887 3658.5 3805.307 3658.5 3800.8887 L 3658.5 3666.8887 C 3658.5 3662.4705 3662.0817 3658.8887 3666.5 3658.8887 Z" fill="#f4f4f4"/>
+      <path d="M 3666.5 3658.8887 L 3902 3658.8887 C 3906.4183 3658.8887 3910 3662.4705 3910 3666.8887 L 3910 3800.8887 C 3910 3805.307 3906.4183 3808.8887 3902 3808.8887 L 3666.5 3808.8887 C 3662.0817 3808.8887 3658.5 3805.307 3658.5 3800.8887 L 3658.5 3666.8887 C 3658.5 3662.4705 3662.0817 3658.8887 3666.5 3658.8887 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3663.5 3714.8887)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="21.5625" y="30" textLength="28.34375">Pr</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="49.125" y="30" textLength="16.984375">o</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="65.640625" y="30" textLength="72.515625">vide r</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="137.375" y="30" textLength="82.5625">eceipt</tspan>
+      </text>
+      <path d="M 4072.5 3658.8887 L 4308 3658.8887 C 4312.4183 3658.8887 4316 3662.4705 4316 3666.8887 L 4316 3800.8887 C 4316 3805.307 4312.4183 3808.8887 4308 3808.8887 L 4072.5 3808.8887 C 4068.0817 3808.8887 4064.5 3805.307 4064.5 3800.8887 L 4064.5 3666.8887 C 4064.5 3662.4705 4068.0817 3658.8887 4072.5 3658.8887 Z" fill="#f4f4f4"/>
+      <path d="M 4072.5 3658.8887 L 4308 3658.8887 C 4312.4183 3658.8887 4316 3662.4705 4316 3666.8887 L 4316 3800.8887 C 4316 3805.307 4312.4183 3808.8887 4308 3808.8887 L 4072.5 3808.8887 C 4068.0817 3808.8887 4064.5 3805.307 4064.5 3800.8887 L 4064.5 3666.8887 C 4064.5 3662.4705 4068.0817 3658.8887 4072.5 3658.8887 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4069.5 3714.8887)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="36.664062" y="30" textLength="86.39062">Send r</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="122.27344" y="30" textLength="82.5625">eceipt</tspan>
+      </text>
+      <path d="M 4072.5 3982.3887 L 4308 3982.3887 C 4312.4183 3982.3887 4316 3985.9705 4316 3990.3887 L 4316 4124.3887 C 4316 4128.807 4312.4183 4132.3887 4308 4132.3887 L 4072.5 4132.3887 C 4068.0817 4132.3887 4064.5 4128.807 4064.5 4124.3887 L 4064.5 3990.3887 C 4064.5 3985.9705 4068.0817 3982.3887 4072.5 3982.3887 Z" fill="#f4f4f4"/>
+      <path d="M 4072.5 3982.3887 L 4308 3982.3887 C 4312.4183 3982.3887 4316 3985.9705 4316 3990.3887 L 4316 4124.3887 C 4316 4128.807 4312.4183 4132.3887 4308 4132.3887 L 4072.5 4132.3887 C 4068.0817 4132.3887 4064.5 4128.807 4064.5 4124.3887 L 4064.5 3990.3887 C 4064.5 3985.9705 4068.0817 3982.3887 4072.5 3982.3887 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4069.5 4038.3887)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="40.960938" y="30" textLength="77.796875">Print r</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="117.97656" y="30" textLength="82.5625">eceipt</tspan>
+      </text>
+      <path d="M 3965.1455 3733.8887 L 3987.25 3733.8887 L 4044.6 3733.8887 L 4046.6 3733.8887" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3964.8224 3733.8887 L 3964.8224 3752.4535 L 3964.8224 4057.3887 L 4044.6 4057.3887 L 4046.6 4057.3887" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4072.5 3452.3887 L 4308 3452.3887 C 4312.4183 3452.3887 4316 3455.9705 4316 3460.3887 L 4316 3594.3887 C 4316 3598.807 4312.4183 3602.3887 4308 3602.3887 L 4072.5 3602.3887 C 4068.0817 3602.3887 4064.5 3598.807 4064.5 3594.3887 L 4064.5 3460.3887 C 4064.5 3455.9705 4068.0817 3452.3887 4072.5 3452.3887 Z" fill="#f4f4f4"/>
+      <path d="M 4072.5 3452.3887 L 4308 3452.3887 C 4312.4183 3452.3887 4316 3455.9705 4316 3460.3887 L 4316 3594.3887 C 4316 3598.807 4312.4183 3602.3887 4308 3602.3887 L 4072.5 3602.3887 C 4068.0817 3602.3887 4064.5 3598.807 4064.5 3594.3887 L 4064.5 3460.3887 C 4064.5 3455.9705 4068.0817 3452.3887 4072.5 3452.3887 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4069.5 3508.3887)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="22.875" y="30" textLength="152.04688">Receipt det</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="174.60938" y="30" textLength="44.015625">ails</tspan>
+      </text>
+      <path d="M 3910 3733.8887 L 3929.9 3733.8887 L 3965.1455 3733.8887 L 3965.1455 3629.084 L 3965.1455 3527.3887 L 4044.6 3527.3887 L 4046.6 3527.3887" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3666.5 3264.074 L 3902 3264.074 C 3906.4183 3264.074 3910 3267.656 3910 3272.074 L 3910 3406.074 C 3910 3410.4924 3906.4183 3414.074 3902 3414.074 L 3666.5 3414.074 C 3662.0817 3414.074 3658.5 3410.4924 3658.5 3406.074 L 3658.5 3272.074 C 3658.5 3267.656 3662.0817 3264.074 3666.5 3264.074 Z" fill="#f4f4f4"/>
+      <path d="M 3666.5 3264.074 L 3902 3264.074 C 3906.4183 3264.074 3910 3267.656 3910 3272.074 L 3910 3406.074 C 3910 3410.4924 3906.4183 3414.074 3902 3414.074 L 3666.5 3414.074 C 3662.0817 3414.074 3658.5 3410.4924 3658.5 3406.074 L 3658.5 3272.074 C 3658.5 3267.656 3662.0817 3264.074 3666.5 3264.074 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" stroke-dasharray="4,4"/>
+      <text transform="translate(3663.5 3301.074)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="16.109375" y="30" textLength="18.484375">P</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="33.1875" y="30" textLength="164.95312">ayment (Car</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="197.35938" y="30" textLength="34.59375">d) </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="37.46875" y="68" textLength="150.95312">— Signatur</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="187.64062" y="68" textLength="16.390625">e</tspan>
+      </text>
+      <path d="M 3567.75 3339.074 L 3586.9 3339.074 L 3612.75 3339.074 L 3638.6 3339.074 L 3639.85 3339.074" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4068.25 2496 L 4303.75 2496 C 4308.1683 2496 4311.75 2499.5817 4311.75 2504 L 4311.75 2638 C 4311.75 2642.4183 4308.1683 2646 4303.75 2646 L 4068.25 2646 C 4063.8317 2646 4060.25 2642.4183 4060.25 2638 L 4060.25 2504 C 4060.25 2499.5817 4063.8317 2496 4068.25 2496 Z" fill="#f4f4f4"/>
+      <path d="M 4068.25 2496 L 4303.75 2496 C 4308.1683 2496 4311.75 2499.5817 4311.75 2504 L 4311.75 2638 C 4311.75 2642.4183 4308.1683 2646 4303.75 2646 L 4068.25 2646 C 4063.8317 2646 4060.25 2642.4183 4060.25 2638 L 4060.25 2504 C 4060.25 2499.5817 4063.8317 2496 4068.25 2496 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4065.25 2514)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="44.90625" y="30" textLength="158.25">PIN-pad — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="18.359375" y="68" textLength="211.34375">Connect one of </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="8.882812" y="106" textLength="27.4375">pr</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="35.539062" y="106" textLength="197.07812">evious devices</tspan>
+      </text>
+      <path d="M 3910 2778.2575 L 3929.9 2778.2575 L 3986.308 2778.2575 L 3986.308 2717.0225 L 3986.308 2571 L 4040.35 2571 L 4042.35 2571" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4072.5 4186 L 4308 4186 C 4312.4183 4186 4316 4189.5817 4316 4194 L 4316 4328 C 4316 4332.4183 4312.4183 4336 4308 4336 L 4072.5 4336 C 4068.0817 4336 4064.5 4332.4183 4064.5 4328 L 4064.5 4194 C 4064.5 4189.5817 4068.0817 4186 4072.5 4186 Z" fill="#f4f4f4"/>
+      <path d="M 4072.5 4186 L 4308 4186 C 4312.4183 4186 4316 4189.5817 4316 4194 L 4316 4328 C 4316 4332.4183 4312.4183 4336 4308 4336 L 4072.5 4336 C 4068.0817 4336 4064.5 4332.4183 4064.5 4328 L 4064.5 4194 C 4064.5 4189.5817 4068.0817 4186 4072.5 4186 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" stroke-dasharray="4,4"/>
+      <text transform="translate(4069.5 4223)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="77.171875" y="30" textLength="61.375">Print</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="138.07812" y="30" textLength="32.8125">er </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" fill="black" x="43.203125" y="68" textLength="155.09375">Connection</tspan>
+      </text>
+      <line x1="4190.25" y1="4133.1387" x2="4190.25" y2="4167.35" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3771 4484 L 4006.5 4484 C 4010.9183 4484 4014.5 4487.5817 4014.5 4492 L 4014.5 4626 C 4014.5 4630.4183 4010.9183 4634 4006.5 4634 L 3771 4634 C 3766.5817 4634 3763 4630.4183 3763 4626 L 3763 4492 C 3763 4487.5817 3766.5817 4484 3771 4484 Z" fill="#f4f4f4"/>
+      <path d="M 3771 4484 L 4006.5 4484 C 4010.9183 4484 4014.5 4487.5817 4014.5 4492 L 4014.5 4626 C 4014.5 4630.4183 4010.9183 4634 4006.5 4634 L 3771 4634 C 3766.5817 4634 3763 4630.4183 3763 4626 L 3763 4492 C 3763 4487.5817 3766.5817 4484 3771 4484 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3768 4502)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="57.890625" y="30" textLength="61.375">Print</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="118.79688" y="30" textLength="71.375">er — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="8.1953125" y="68" textLength="199.04688">Connection Err</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="206.46094" y="68" textLength="33.40625">or </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="37.578125" y="106" textLength="166.34375">(first device)</tspan>
+      </text>
+      <path d="M 4365 4484 L 4600.5 4484 C 4604.9183 4484 4608.5 4487.5817 4608.5 4492 L 4608.5 4626 C 4608.5 4630.4183 4604.9183 4634 4600.5 4634 L 4365 4634 C 4360.5817 4634 4357 4630.4183 4357 4626 L 4357 4492 C 4357 4487.5817 4360.5817 4484 4365 4484 Z" fill="#f4f4f4"/>
+      <path d="M 4365 4484 L 4600.5 4484 C 4604.9183 4484 4608.5 4487.5817 4608.5 4492 L 4608.5 4626 C 4608.5 4630.4183 4604.9183 4634 4600.5 4634 L 4365 4634 C 4360.5817 4634 4357 4630.4183 4357 4626 L 4357 4492 C 4357 4487.5817 4360.5817 4484 4365 4484 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4362 4521)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="57.890625" y="30" textLength="61.375">Print</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="118.79688" y="30" textLength="71.375">er — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="46.57031" y="68" textLength="114.71875">Connect</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="160.82031" y="68" textLength="34.109375">ed</tspan>
+      </text>
+      <path d="M 4190.25 4407.953 L 4019.0625 4407.953 L 3888.75 4407.953 L 3888.75 4464.1 L 3888.75 4466.1" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4190.25 4336 L 4190.25 4355.9 L 4190.25 4407.9766 L 4481.461 4407.9766 L 4482.75 4407.9766 L 4482.75 4464.1 L 4482.75 4466.1" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4072.5 4484 L 4308 4484 C 4312.4183 4484 4316 4487.5817 4316 4492 L 4316 4626 C 4316 4630.4183 4312.4183 4634 4308 4634 L 4072.5 4634 C 4068.0817 4634 4064.5 4630.4183 4064.5 4626 L 4064.5 4492 C 4064.5 4487.5817 4068.0817 4484 4072.5 4484 Z" fill="#f4f4f4"/>
+      <path d="M 4072.5 4484 L 4308 4484 C 4312.4183 4484 4316 4487.5817 4316 4492 L 4316 4626 C 4316 4630.4183 4312.4183 4634 4308 4634 L 4072.5 4634 C 4068.0817 4634 4064.5 4630.4183 4064.5 4626 L 4064.5 4492 C 4064.5 4487.5817 4068.0817 4484 4072.5 4484 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4069.5 4502)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="57.890625" y="30" textLength="61.375">Print</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="118.79688" y="30" textLength="71.375">er — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="18.359375" y="68" textLength="211.34375">Connect one of </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="8.882812" y="106" textLength="27.4375">pr</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="35.539062" y="106" textLength="197.07812">evious devices</tspan>
+      </text>
+      <line x1="4190.25" y1="4336" x2="4190.25" y2="4466.1" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4662 3982.3887 L 4897.5 3982.3887 C 4901.918 3982.3887 4905.5 3985.9705 4905.5 3990.3887 L 4905.5 4124.3887 C 4905.5 4128.807 4901.918 4132.3887 4897.5 4132.3887 L 4662 4132.3887 C 4657.5817 4132.3887 4654 4128.807 4654 4124.3887 L 4654 3990.3887 C 4654 3985.9705 4657.5817 3982.3887 4662 3982.3887 Z" fill="#f4f4f4"/>
+      <path d="M 4662 3982.3887 L 4897.5 3982.3887 C 4901.918 3982.3887 4905.5 3985.9705 4905.5 3990.3887 L 4905.5 4124.3887 C 4905.5 4128.807 4901.918 4132.3887 4897.5 4132.3887 L 4662 4132.3887 C 4657.5817 4132.3887 4654 4128.807 4654 4124.3887 L 4654 3990.3887 C 4654 3985.9705 4657.5817 3982.3887 4662 3982.3887 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4659 4019.3887)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="21.679688" y="30" textLength="77.796875">Print r</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="98.69531" y="30" textLength="127.6875">eceipt — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="33.171875" y="68" textLength="126.29688">Finish scr</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="158.6875" y="68" textLength="49.640625">een</tspan>
+      </text>
+      <path d="M 4316 4261 L 4335.9 4261 L 4779.203 4261 L 4779.203 4132.3887 L 4779.203 4132.3887 L 4779.203 4152.2887 L 4779.75 4152.2887 L 4779.75 4150.2887" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4608.5 4559 L 4628.4 4559 L 4779.289 4559 L 4779.289 4469.492 L 4779.75 4152.2887 L 4779.75 4150.2887" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4779.75 3982.3887 L 4779.75 3962.4887 L 4779.75 3895.6387 L 4659.25 3895.6387 L 4190.25 3895.6387 L 4190.25 3828.7887 L 4190.25 3826.7887" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <line x1="4906.25" y1="4057.3887" x2="5229.5" y2="4057.3887" marker-end="url(#NonNavigable_Marker)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <rect x="4991.023" y="4037.8887" width="159" height="39" fill="white"/>
+      <text transform="translate(4996.023 4042.8887)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x=".24414062" y="23" textLength="13.945312">T</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="11.02539" y="23" textLength="39.140625">o St</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="49.93164" y="23" textLength="62.17969">art scr</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="111.52539" y="23" textLength="37.23047">een</tspan>
+      </text>
+      <line x1="4316" y1="3733.8887" x2="4389.85" y2="3733.8887" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4416.5 3658.8887 L 4652 3658.8887 C 4656.4183 3658.8887 4660 3662.4705 4660 3666.8887 L 4660 3800.8887 C 4660 3805.307 4656.4183 3808.8887 4652 3808.8887 L 4416.5 3808.8887 C 4412.0817 3808.8887 4408.5 3805.307 4408.5 3800.8887 L 4408.5 3666.8887 C 4408.5 3662.4705 4412.0817 3658.8887 4416.5 3658.8887 Z" fill="#f4f4f4"/>
+      <path d="M 4416.5 3658.8887 L 4652 3658.8887 C 4656.4183 3658.8887 4660 3662.4705 4660 3666.8887 L 4660 3800.8887 C 4660 3805.307 4656.4183 3808.8887 4652 3808.8887 L 4416.5 3808.8887 C 4412.0817 3808.8887 4408.5 3805.307 4408.5 3800.8887 L 4408.5 3666.8887 C 4408.5 3662.4705 4412.0817 3658.8887 4416.5 3658.8887 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4413.5 3676.8887)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="17.382812" y="30" textLength="86.39062">Send r</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="102.99219" y="30" textLength="127.6875">eceipt — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="22.679688" y="68" textLength="44.171875">Ent</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="66.38281" y="68" textLength="159">er E-mail or </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="77.765625" y="106" textLength="85.96875">Phone</tspan>
+      </text>
+      <line x1="4660.75" y1="3733.8887" x2="4973" y2="3733.8887" marker-end="url(#NonNavigable_Marker)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <rect x="4740.4006" y="3714.3887" width="159" height="39" fill="white"/>
+      <text transform="translate(4745.4006 3719.3887)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x=".24414062" y="23" textLength="13.945312">T</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="11.02539" y="23" textLength="39.140625">o St</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="49.93164" y="23" textLength="62.17969">art scr</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="111.52539" y="23" textLength="37.23047">een</tspan>
+      </text>
+      <line x1="3567" y1="3733.8887" x2="3640.6" y2="3733.8887" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3910 1854.6563 L 3929.9 1854.6563 L 3985.125 1854.6563 L 3985.125 1854.6562 L 4040.35 1854.6562 L 4042.35 1854.6562" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <line x1="3252.75" y1="1793.75" x2="3252.75" y2="2373.6" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1615 1746.75 L 1850.5 1746.75 C 1854.9183 1746.75 1858.5 1750.3317 1858.5 1754.75 L 1858.5 1888.75 C 1858.5 1893.1683 1854.9183 1896.75 1850.5 1896.75 L 1615 1896.75 C 1610.5817 1896.75 1607 1893.1683 1607 1888.75 L 1607 1754.75 C 1607 1750.3317 1610.5817 1746.75 1615 1746.75 Z" fill="#f4f4f4"/>
+      <path d="M 1615 1746.75 L 1850.5 1746.75 C 1854.9183 1746.75 1858.5 1750.3317 1858.5 1754.75 L 1858.5 1888.75 C 1858.5 1893.1683 1854.9183 1896.75 1850.5 1896.75 L 1615 1896.75 C 1610.5817 1896.75 1607 1893.1683 1607 1888.75 L 1607 1754.75 C 1607 1750.3317 1610.5817 1746.75 1615 1746.75 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(1612 1802.75)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="20.226562" y="30" textLength="175.26562">Phone — Ent</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="195.02344" y="30" textLength="26.25">er</tspan>
+      </text>
+      <path d="M 3135 747 L 3370.5 747 C 3374.9183 747 3378.5 750.5817 3378.5 755 L 3378.5 889 C 3378.5 893.4183 3374.9183 897 3370.5 897 L 3135 897 C 3130.5817 897 3127 893.4183 3127 889 L 3127 755 C 3127 750.5817 3130.5817 747 3135 747 Z" fill="#f4f4f4"/>
+      <path d="M 3135 747 L 3370.5 747 C 3374.9183 747 3378.5 750.5817 3378.5 755 L 3378.5 889 C 3378.5 893.4183 3374.9183 897 3370.5 897 L 3135 897 C 3130.5817 897 3127 893.4183 3127 889 L 3127 755 C 3127 750.5817 3130.5817 747 3135 747 Z" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <text transform="translate(3132 803)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="56.84375" y="30" textLength="20.484375">R</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="77.171875" y="30" textLength="107.48438">eceipts</tspan>
+      </text>
+      <line x1="3252.75" y1="1643.75" x2="3252.75" y2="916.4" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3077.75 3193.574 L 3077.75 3213.474 L 3077.75 3529.764 L 3273.6034 3529.764 L 3441.25 3529.764 L 3441.25 3638.9887 L 3441.25 3640.9887" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3441.25 3414.074 L 3441.25 3433.974 L 3441.25 3464.48 L 3441.25 3464.48 L 3441.25 3638.9887 L 3441.25 3640.2387" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <line x1="3378.5" y1="822" x2="3639.85" y2="822" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3666.5 341 L 3902 341 C 3906.4183 341 3910 344.58172 3910 349 L 3910 483 C 3910 487.4183 3906.4183 491 3902 491 L 3666.5 491 C 3662.0817 491 3658.5 487.4183 3658.5 483 L 3658.5 349 C 3658.5 344.58172 3662.0817 341 3666.5 341 Z" fill="#f4f4f4"/>
+      <path d="M 3666.5 341 L 3902 341 C 3906.4183 341 3910 344.58172 3910 349 L 3910 483 C 3910 487.4183 3906.4183 491 3902 491 L 3666.5 491 C 3662.0817 491 3658.5 487.4183 3658.5 483 L 3658.5 349 C 3658.5 344.58172 3662.0817 341 3666.5 341 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3663.5 378)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="50.60156" y="30" textLength="146.85938">Receipt — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="55.33594" y="68" textLength="130.82812">Refunded</tspan>
+      </text>
+      <path d="M 3666.5 747 L 3902 747 C 3906.4183 747 3910 750.5817 3910 755 L 3910 889 C 3910 893.4183 3906.4183 897 3902 897 L 3666.5 897 C 3662.0817 897 3658.5 893.4183 3658.5 889 L 3658.5 755 C 3658.5 750.5817 3662.0817 747 3666.5 747 Z" fill="#f4f4f4"/>
+      <path d="M 3666.5 747 L 3902 747 C 3906.4183 747 3910 750.5817 3910 755 L 3910 889 C 3910 893.4183 3906.4183 897 3902 897 L 3666.5 897 C 3662.0817 897 3658.5 893.4183 3658.5 889 L 3658.5 755 C 3658.5 750.5817 3662.0817 747 3666.5 747 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3663.5 784)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="50.60156" y="30" textLength="146.85938">Receipt — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="47.14844" y="68" textLength="147.20312">Successful</tspan>
+      </text>
+      <path d="M 3666.5 138 L 3902 138 C 3906.4183 138 3910 141.58172 3910 146 L 3910 280 C 3910 284.41828 3906.4183 288 3902 288 L 3666.5 288 C 3662.0817 288 3658.5 284.41828 3658.5 280 L 3658.5 146 C 3658.5 141.58172 3662.0817 138 3666.5 138 Z" fill="#f4f4f4"/>
+      <path d="M 3666.5 138 L 3902 138 C 3906.4183 138 3910 141.58172 3910 146 L 3910 280 C 3910 284.41828 3906.4183 288 3902 288 L 3666.5 288 C 3662.0817 288 3658.5 284.41828 3658.5 280 L 3658.5 146 C 3658.5 141.58172 3662.0817 138 3666.5 138 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3663.5 175)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="50.60156" y="30" textLength="146.85938">Receipt — </tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="53.515625" y="68" textLength="134.46875">Cancelled</tspan>
+      </text>
+      <line x1="3441.25" y1="3808.8887" x2="3441.25" y2="3937.078" marker-end="url(#NonNavigable_Marker)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <rect x="3361.75" y="3862.8235" width="159" height="39" fill="white"/>
+      <text transform="translate(3366.75 3867.8235)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x=".24414062" y="23" textLength="13.945312">T</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="11.02539" y="23" textLength="39.140625">o St</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="49.93164" y="23" textLength="62.17969">art scr</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="111.52539" y="23" textLength="37.23047">een</tspan>
+      </text>
+      <path d="M 3784.25 3414.074 L 3784.25 3433.974 L 3784.25 3529.003 L 3616.854 3529.003 L 3441.25 3529.003 L 3441.25 3638.9887 L 3441.25 3640.9887" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3518.5 416 L 3638.6 416 L 3640.6 416" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3378.5 822 L 3398.4 822 L 3518.5 822 L 3518.5 619 L 3518.5 213 L 3638.6 213 L 3640.6 213" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4068.25 544 L 4303.75 544 C 4308.1683 544 4311.75 547.5817 4311.75 552 L 4311.75 686 C 4311.75 690.4183 4308.1683 694 4303.75 694 L 4068.25 694 C 4063.8317 694 4060.25 690.4183 4060.25 686 L 4060.25 552 C 4060.25 547.5817 4063.8317 544 4068.25 544 Z" fill="#f4f4f4"/>
+      <path d="M 4068.25 544 L 4303.75 544 C 4308.1683 544 4311.75 547.5817 4311.75 552 L 4311.75 686 C 4311.75 690.4183 4308.1683 694 4303.75 694 L 4068.25 694 C 4063.8317 694 4060.25 690.4183 4060.25 686 L 4060.25 552 C 4060.25 547.5817 4063.8317 544 4068.25 544 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4065.25 600)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="73.83594" y="30" textLength="93.82812">Cancel</tspan>
+      </text>
+      <path d="M 3977.0547 822 L 3977.0547 821.3203 L 3977.0547 619 L 4040.35 619 L 4042.35 619" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4068.25 747 L 4303.75 747 C 4308.1683 747 4311.75 750.5817 4311.75 755 L 4311.75 889 C 4311.75 893.4183 4308.1683 897 4303.75 897 L 4068.25 897 C 4063.8317 897 4060.25 893.4183 4060.25 889 L 4060.25 755 C 4060.25 750.5817 4063.8317 747 4068.25 747 Z" fill="#f4f4f4"/>
+      <path d="M 4068.25 747 L 4303.75 747 C 4308.1683 747 4311.75 750.5817 4311.75 755 L 4311.75 889 C 4311.75 893.4183 4308.1683 897 4303.75 897 L 4068.25 897 C 4063.8317 897 4060.25 893.4183 4060.25 889 L 4060.25 755 C 4060.25 750.5817 4063.8317 747 4068.25 747 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4065.25 803)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="72.390625" y="30" textLength="96.71875">Refund</tspan>
+      </text>
+      <line x1="3910" y1="822" x2="4042.35" y2="822" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4311.75 619 L 4331.65 619 L 4364.3125 619 L 4364.3125 1151.6016 L 3252.75 1151.6016 L 3252.75 916.9 L 3252.75 914.9" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4311.75 822 L 4331.65 822 L 4364.633 822 L 4364.633 1151.2422 L 3252.75 1151.2422 L 3252.75 916.9 L 3252.75 914.9" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 3784.25 747 L 3784.25 727.1 L 3784.25 676.55 L 3785.125 676.55 L 3786 676.55 L 3786 643.9" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <rect x="3684.25" y="670.3362" width="200" height="39" fill="white"/>
+      <text transform="translate(3689.25 675.3362)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x=".13085938" y="23" textLength="128.40234">Send / Print r</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="127.94727" y="23" textLength="61.921875">eceipt</tspan>
+      </text>
+      <line x1="3910" y1="416" x2="4349.1" y2="416" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <rect x="4030.3407" y="396.5" width="200" height="39" fill="white"/>
+      <text transform="translate(4035.3407 401.5)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x=".13085938" y="23" textLength="128.40234">Send / Print r</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="127.94727" y="23" textLength="61.921875">eceipt</tspan>
+      </text>
+      <line x1="3910.75" y1="213" x2="4347.1" y2="213" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <rect x="4029.765" y="193.5" width="200" height="39" fill="white"/>
+      <text transform="translate(4034.765 198.5)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x=".13085938" y="23" textLength="128.40234">Send / Print r</tspan>
+        <tspan font-family="SF Pro Display" font-size="24" font-weight="500" x="127.94727" y="23" textLength="61.921875">eceipt</tspan>
+      </text>
+      <path d="M 3135 544 L 3370.5 544 C 3374.9183 544 3378.5 547.5817 3378.5 552 L 3378.5 686 C 3378.5 690.4183 3374.9183 694 3370.5 694 L 3135 694 C 3130.5817 694 3127 690.4183 3127 686 L 3127 552 C 3127 547.5817 3130.5817 544 3135 544 Z" fill="#f4f4f4"/>
+      <path d="M 3135 544 L 3370.5 544 C 3374.9183 544 3378.5 547.5817 3378.5 552 L 3378.5 686 C 3378.5 690.4183 3374.9183 694 3370.5 694 L 3135 694 C 3130.5817 694 3127 690.4183 3127 686 L 3127 552 C 3127 547.5817 3130.5817 544 3135 544 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(3132 600)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="88.0625" y="30" textLength="39.59375">Filt</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="127.1875" y="30" textLength="26.25">er</tspan>
+      </text>
+      <path d="M 3252.75 747 L 3252.75 727.1 L 3252.75 720.5 L 3252.75 713.9 L 3252.75 711.9" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4068.25 950 L 4303.75 950 C 4308.1683 950 4311.75 953.5817 4311.75 958 L 4311.75 1092 C 4311.75 1096.4183 4308.1683 1100 4303.75 1100 L 4068.25 1100 C 4063.8317 1100 4060.25 1096.4183 4060.25 1092 L 4060.25 958 C 4060.25 953.5817 4063.8317 950 4068.25 950 Z" fill="#f4f4f4"/>
+      <path d="M 4068.25 950 L 4303.75 950 C 4308.1683 950 4311.75 953.5817 4311.75 958 L 4311.75 1092 C 4311.75 1096.4183 4308.1683 1100 4303.75 1100 L 4068.25 1100 C 4063.8317 1100 4060.25 1096.4183 4060.25 1092 L 4060.25 958 C 4060.25 953.5817 4063.8317 950 4068.25 950 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <text transform="translate(4065.25 1006)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="33.273438" y="30" textLength="18.484375">P</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="50.35156" y="30" textLength="81.109375">artial r</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="130.67969" y="30" textLength="77.546875">efund</tspan>
+      </text>
+      <path d="M 3910 822 L 3929.9 822 L 3976.9727 822 L 3976.9727 856.5664 L 3976.9727 1025 L 4040.35 1025 L 4042.35 1025" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 4311.75 1025 L 4331.65 1025 L 4364.1445 1025 L 4364.1445 1151.3154 L 3252.75 1151.3154 L 3252.75 916.9 L 3252.75 914.9" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1615 2704 L 1850.5 2704 C 1854.9183 2704 1858.5 2707.5817 1858.5 2712 L 1858.5 2846 C 1858.5 2850.4183 1854.9183 2854 1850.5 2854 L 1615 2854 C 1610.5817 2854 1607 2850.4183 1607 2846 L 1607 2712 C 1607 2707.5817 1610.5817 2704 1615 2704 Z" fill="#f4f4f4"/>
+      <path d="M 1615 2704 L 1850.5 2704 C 1854.9183 2704 1858.5 2707.5817 1858.5 2712 L 1858.5 2846 C 1858.5 2850.4183 1854.9183 2854 1850.5 2854 L 1615 2854 C 1610.5817 2854 1607 2850.4183 1607 2846 L 1607 2712 C 1607 2707.5817 1610.5817 2704 1615 2704 Z" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <text transform="translate(1612 2760)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="bold" x="59.60156" y="30" textLength="122.29688">Settings</tspan>
+      </text>
+      <path d="M 1982 2703.2575 L 2217.5 2703.2575 C 2221.9183 2703.2575 2225.5 2706.8393 2225.5 2711.2575 L 2225.5 2845.2575 C 2225.5 2849.6758 2221.9183 2853.2575 2217.5 2853.2575 L 1982 2853.2575 C 1977.5817 2853.2575 1974 2849.6758 1974 2845.2575 L 1974 2711.2575 C 1974 2706.8393 1977.5817 2703.2575 1982 2703.2575 Z" fill="#f4f4f4"/>
+      <path d="M 1982 2703.2575 L 2217.5 2703.2575 C 2221.9183 2703.2575 2225.5 2706.8393 2225.5 2711.2575 L 2225.5 2845.2575 C 2225.5 2849.6758 2221.9183 2853.2575 2217.5 2853.2575 L 1982 2853.2575 C 1977.5817 2853.2575 1974 2849.6758 1974 2845.2575 L 1974 2711.2575 C 1974 2706.8393 1977.5817 2703.2575 1982 2703.2575 Z" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" stroke-dasharray="4,4"/>
+      <text transform="translate(1979 2759.2575)" fill="black">
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="43.5625" y="30" textLength="20.1875">A</tspan>
+        <tspan font-family="SF Pro Display" font-size="32" font-weight="500" x="63.4375" y="30" textLength="134.5">dd Device</tspan>
+      </text>
+      <path d="M 1858.5 2779 L 1878.4 2779 L 1916.25 2778.6288 L 1954.1 2778.2575 L 1956.1 2778.2575" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 2226.25 2778.2575 L 2245.4 2778.2575 L 2770.5 2778.2575 L 3072.25 2778.2575 L 3072.25 2772.7575 L 3083.25 2772.7575 L 3083.25 2778.2575 L 3295.6 2778.2575 L 3297.6 2778.2575" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 2225.5 2778.2575 L 2245.4 2778.2575 L 2342.0156 2778.2575 L 2342.0156 3533.7188 L 2342.0156 4261 L 4044.6 4261 L 4046.6 4261" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      <path d="M 1607 2779 L 1587.1 2779 L 1323.75 2779 L 1323.75 1650.75 L 1323.75 1670.65 L 1323.75 1669.4" marker-end="url(#FilledArrow_Marker_2)" stroke="#3d82f8" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
