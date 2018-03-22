@@ -12,7 +12,7 @@ html {
   text-size-adjust: none; }
 
 ul, ol {
-  list-style: none; }
+  list-style: circle;}
 
 a {
   text-decoration: none; }
@@ -87,12 +87,12 @@ main {
   display: flex;
   flex-wrap: wrap; }
 
-.flex-sb, .fl-sb {
+.flex-sb {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between; }
   @media screen and (max-width: 615px) {
-    .flex-sb, .fl-sb {
+    .flex-sb {
       display: block; } }
 
 .upp {
@@ -261,22 +261,14 @@ a.more {
   text-transform: uppercase;
   font-size: 1.25rem;
   font-weight: 700;
-  letter-spacing: 2.4px; }
+  letter-spacing: 2.4px;
+  margin-bottom: 70px;
+  display: block; }
 
 .home h1, .home h2 {
   color: #181818; }
 .home h1 {
   margin: 0 0 16px 0; }
-.home a.more {
-  margin-bottom: 70px;
-  display: block; }
-.home .title {
-  max-width: 305px;
-  min-width: 210px; }
-  @media screen and (max-width: 615px) {
-    .home .title {
-      width: 100%;
-      order: 5; } }
 
 .sample {
   margin: 0 0 128px 0;
@@ -328,13 +320,49 @@ a.more {
       .sample.wk-07 {
         background: none; } }
 
-.title a, .title span {
-  text-transform: uppercase;
-  font-size: 1.25rem;
-  font-weight: 700;
-  letter-spacing: 2.4px; }
-.title span {
-  color: #808080; }
+.title {
+  max-width: 305px;
+  min-width: 210px; }
+  @media screen and (max-width: 615px) {
+    .title {
+      width: 100%;
+      order: 5; } }
+  .title a, .title span {
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 2.4px; }
+  .title span {
+    color: #808080; }
+
+.section.about {
+  padding: 60px 0 0 0; }
+  .section.about .row-alt {
+    margin-bottom: 128px; }
+  .section.about .photo {
+    max-width: 289px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 0%; }
+    @media screen and (max-width: 959px) {
+      .section.about .photo {
+        max-width: 100%; } }
+    @media screen and (max-width: 767px) {
+      .section.about .photo {
+        max-width: 70%; } }
+  .section.about .box {
+    width: 50%;
+    padding-left: 32px;
+    box-sizing: border-box; }
+    @media screen and (max-width: 615px) {
+      .section.about .box {
+        width: auto;
+        padding: 0; } }
+    .section.about .box:first-child {
+      padding-left: 0;}
+      @media screen and (max-width: 615px) {
+        .section.about .box:first-child {
+          padding: 0 0 40px 0; } }
 
 .company-info {
   font-size: 1.25rem;
@@ -345,68 +373,9 @@ a.more {
     display: block; }
   .company-info span {
     display: block;
-    margin: 0 0 10px 0; }
+    margin-bottom: 10px; }
     .company-info span:last-child {
-      margin: 15px 0 0 0; }
-
-.section.about {
-  padding: 60px 0 0 0; }
-  .section.about .row {
-    margin: 0 0 100px 0; }
-  .section.about .row-alt {
-    margin-bottom: 128px; }
-  .section.about h2 {
-    color: #181818;
-    margin: 0 0 30px 0; }
-  .section.about .photo {
-    max-width: 289px;
-    display: block;
-    margin: 0 auto; }
-    @media screen and (max-width: 959px) {
-      .section.about .photo {
-        max-width: 100%; } }
-    @media screen and (max-width: 767px) {
-      .section.about .photo {
-        max-width: 70%;
-        margin-top: 50px; } }
-  .section.about .box {
-    width: 30%; }
-    @media screen and (max-width: 615px) {
-      .section.about .box {
-        width: auto; } }
-    .section.about .box h3 {
-      text-transform: uppercase; }
-  .section.about .list {
-    list-style: disc; }
-    @media screen and (max-width: 615px) {
-      .section.about .list {
-        margin-bottom: 30px; } }
-    .section.about .list li {
-      margin-bottom: 6px; }
-      .section.about .list li:last-child {
-        margin: 0; }
-  .section.about .title {
-    margin-bottom: 32px; }
-    .section.about .title span {
-      margin: 0 0 0 40px; }
-      .section.about .title span:first-child {
-        margin: 0;
-        color: #000; }
-  .section.about .education .title {
-    margin-bottom: 55px; }
-    .section.about .education .title span {
-      display: block;
-      margin: 0;
-      line-height: 2rem; }
-      .section.about .education .title span:first-child, .section.about .education .title span:last-child {
-        color: #000; }
-      .section.about .education .title span:last-child {
-        margin: 8px 0 0 0;
-        font-weight: 400;
-        letter-spacing: 0.3px;
-        text-transform: none; }
-  .section.about .company-info span:last-child {
-    margin-top: 0; }
+      margin-top: 15px; }
 
 h1 span {
   display: block;
@@ -471,6 +440,8 @@ h1 span {
       .next a {
         font-size: 2rem;
         line-height: 2.25rem; } }
+  .next a:hover {
+      color: #0051aa; }
   .next span {
     display: block;
     font-size: 1.25rem;
