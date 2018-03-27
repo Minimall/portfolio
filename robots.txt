@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /ryanair.html
+Disallow: /about.html
