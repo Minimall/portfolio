@@ -29,16 +29,7 @@ img {
 a:link {
   -webkit-tap-highlight-color: #007aff; }
 
-@font-face {
-  font-family: 'TT Norms';
-  src: url("../font/ttnorms-bold-webfont.woff2") format("woff2"), url("../font/ttnorms-bold-webfont.woff") format("woff");
-  font-weight: 700;
-  font-style: normal; }
-@font-face {
-  font-family: 'TT Norms';
-  src: url("../font/ttnorms-regular-webfont.woff2") format("woff2"), url("../font/ttnorms-regular-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
+
 html {
   height: 100%;
   font-size: 16px; }
@@ -50,7 +41,7 @@ html {
       font-size: 12px; } }
 
 body {
-  font-family: "TT Norms", Arial, sans-serif;
+  font-family: 'Inter', Arial, sans-serif;
   position: relative;
   background: #fff; }
 
